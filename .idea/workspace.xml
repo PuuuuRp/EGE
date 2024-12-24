@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Мы пытались">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Решение 7">
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 24-12-24/Зад 26.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 5 19237.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 5 19237.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Зад 26.executor": "Run",
     "Python.Зад 5 19237.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -57,6 +57,11 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AUshakov\Desktop\EGE\ЕГКР-21-12-24" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,12 +94,30 @@
       <option name="project" value="LOCAL" />
       <updated>1735051322854</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Итоговое решение">
+      <option name="closed" value="true" />
+      <created>1735052577421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735052577421</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Решение 7">
+      <option name="closed" value="true" />
+      <created>1735053765638</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735053765638</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Мы пытались" />
-    <option name="LAST_COMMIT_MESSAGE" value="Мы пытались" />
+    <MESSAGE value="Итоговое решение" />
+    <MESSAGE value="Решение 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение 7" />
   </component>
 </project>
