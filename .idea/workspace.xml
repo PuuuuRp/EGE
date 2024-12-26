@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Чут-чут накидал. Уффф">
-      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 12 19244.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 14 19246.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 15 19247.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 16 19248.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 19-21 19251.py" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 23 19253.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 24 19254.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +54,8 @@
     "Python.Зад 15 19247.executor": "Run",
     "Python.Зад 16 19248.executor": "Run",
     "Python.Зад 19-21 19251.executor": "Run",
+    "Python.Зад 23 19253.executor": "Run",
+    "Python.Зад 24 19254.executor": "Run",
     "Python.Зад 26.executor": "Run",
     "Python.Зад 5 19237.executor": "Run",
     "Python.Зад 6 19238.executor": "Run",
@@ -137,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735221148150</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1735223820971</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735223820971</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,6 +153,7 @@
     <MESSAGE value="Итоговое решение" />
     <MESSAGE value="Решение 7" />
     <MESSAGE value="Чут-чут накидал. Уффф" />
-    <option name="LAST_COMMIT_MESSAGE" value="Чут-чут накидал. Уффф" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
