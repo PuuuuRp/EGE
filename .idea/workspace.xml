@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Решение 7">
-      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 6 19238.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Чут-чут накидал. Уффф">
+      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 12 19244.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 14 19246.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 15 19247.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 16 19248.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 19-21 19251.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +33,12 @@
     &quot;assignee&quot;: &quot;PuuuuRp&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PuuuuRp/EGE.git",
-    "accountId": "e177fe12-0fef-480d-9ee3-c3503fa7a544"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PuuuuRp/EGE.git&quot;,
+    &quot;accountId&quot;: &quot;e177fe12-0fef-480d-9ee3-c3503fa7a544&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -50,6 +52,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Зад 12 19244.executor": "Run",
+    "Python.Зад 14 19246.executor": "Run",
+    "Python.Зад 15 19247.executor": "Run",
+    "Python.Зад 16 19248.executor": "Run",
+    "Python.Зад 19-21 19251.executor": "Run",
     "Python.Зад 26.executor": "Run",
     "Python.Зад 5 19237.executor": "Run",
     "Python.Зад 6 19238.executor": "Run",
@@ -114,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735053765638</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Чут-чут накидал. Уффф">
+      <option name="closed" value="true" />
+      <created>1735068497606</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735068497606</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Чут-чут накидал. Уффф">
+      <option name="closed" value="true" />
+      <created>1735221148150</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735221148150</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +145,7 @@
     <MESSAGE value="Мы пытались" />
     <MESSAGE value="Итоговое решение" />
     <MESSAGE value="Решение 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение 7" />
+    <MESSAGE value="Чут-чут накидал. Уффф" />
+    <option name="LAST_COMMIT_MESSAGE" value="Чут-чут накидал. Уффф" />
   </component>
 </project>
