@@ -6,3 +6,4 @@ print(*range(1, 8))
 for i in permutations('АБВГДЕЗ'):
     if all(str(i.index(x)+1) in mat[i.index(y)] for x, y in gr):
         print(*i)
+#21
