@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 23 19253.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 24 19254.py" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
+      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;PuuuuRp&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PuuuuRp/EGE.git&quot;,
-    &quot;accountId&quot;: &quot;e177fe12-0fef-480d-9ee3-c3503fa7a544&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PuuuuRp/EGE.git",
+    "accountId": "7e5107c8-4777-489c-b22e-e3cdf82c784b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -49,6 +49,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.T1 11649.executor": "Run",
+    "Python.T1 14443.executor": "Run",
+    "Python.T1 16248.executor": "Run",
+    "Python.T1 17664.executor": "Run",
+    "Python.T14 12246.executor": "Debug",
+    "Python.T14 18122.executor": "Run",
+    "Python.T14 19406.executor": "Run",
+    "Python.T5 14327.executor": "Run",
+    "Python.T5 18578.executor": "Run",
+    "Python.T8 13298.executor": "Run",
+    "Python.T8 17627.executor": "Run",
     "Python.Зад 12 19244.executor": "Run",
     "Python.Зад 14 19246.executor": "Run",
     "Python.Зад 15 19247.executor": "Run",
@@ -72,10 +83,34 @@
       <recent name="C:\Users\AUshakov\Desktop\EGE\ЕГКР-21-12-24" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="T14 12246" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="EGE" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-01-25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-01-25/T14 12246.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -144,7 +179,47 @@
       <option name="project" value="LOCAL" />
       <updated>1735223820971</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1736259850491</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736259850491</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1736261071980</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736261071980</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1736263173250</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736263173250</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1736264640345</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736264640345</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1736264653818</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1736264653818</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +229,7 @@
     <MESSAGE value="Решение 7" />
     <MESSAGE value="Чут-чут накидал. Уффф" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Ответы в файлах" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ответы в файлах" />
   </component>
 </project>
