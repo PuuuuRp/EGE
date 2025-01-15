@@ -5,13 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
-      <change afterPath="$PROJECT_DIR$/14-01-25 T2/T2 13077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-01-25 T2/T2 4582.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-01-25 T2/T2 4607.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-01-25 T2/T2 9733.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-01-25 T2/T2 Base-Code 1846.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-01-25 T2/T2 Steps-Met.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T1 16248.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T1 19233.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 17621.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 17665.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 18576.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 19234.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T5 14330.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T8 11292.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/18_19250.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/22_19252.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/24_19254.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/3_19235.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/9_19241.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 1 19233.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 11 19243.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 12 19244.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 14 19246.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 15 19247.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 16 19248.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 19-21 19251.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 2 19234.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 23 19253.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 24 19254.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 4 19236.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 5 19237.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 6 19238.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 7 19239.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 8 19240.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +84,17 @@
     "Python.T1 14443.executor": "Run",
     "Python.T1 16248.executor": "Run",
     "Python.T1 17664.executor": "Run",
+    "Python.T1 19233.executor": "Run",
     "Python.T14 12246.executor": "Run",
     "Python.T14 18122.executor": "Run",
     "Python.T14 19406.executor": "Run",
     "Python.T17.executor": "Run",
     "Python.T19-20-21.executor": "Run",
     "Python.T2 13077.executor": "Run",
+    "Python.T2 17621.executor": "Run",
+    "Python.T2 17665.executor": "Run",
+    "Python.T2 18576.executor": "Run",
+    "Python.T2 19234.executor": "Run",
     "Python.T2 4582.executor": "Run",
     "Python.T2 4607.executor": "Run",
     "Python.T2 9733.executor": "Run",
@@ -74,9 +103,12 @@
     "Python.T2 Steps-Met.executor": "Run",
     "Python.T2 АвтоКод.executor": "Run",
     "Python.T5 14327.executor": "Run",
+    "Python.T5 14330.executor": "Run",
     "Python.T5 18578.executor": "Run",
+    "Python.T8 11292.executor": "Run",
     "Python.T8 13298.executor": "Run",
     "Python.T8 17627.executor": "Run",
+    "Python.Зад 1 4581.executor": "Run",
     "Python.Зад 12 19244.executor": "Run",
     "Python.Зад 14 19246.executor": "Run",
     "Python.Зад 15 19247.executor": "Run",
