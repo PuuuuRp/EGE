@@ -5,37 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T1 16248.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T1 19233.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 17621.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 17665.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 18576.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 19234.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T5 14330.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25/T8 11292.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag les/T19-20-21 5885.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/18_19250.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/22_19252.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/24_19254.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/3_19235.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/9_19241.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 1 19233.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 11 19243.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 12 19244.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 14 19246.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 15 19247.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 16 19248.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 19-21 19251.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 2 19234.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 23 19253.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 24 19254.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 4 19236.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 5 19237.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 6 19238.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 7 19239.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/Зад 8 19240.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +29,12 @@
     &quot;assignee&quot;: &quot;PuuuuRp&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PuuuuRp/EGE.git&quot;,
-    &quot;accountId&quot;: &quot;7e5107c8-4777-489c-b22e-e3cdf82c784b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PuuuuRp/EGE.git",
+    "accountId": "e177fe12-0fef-480d-9ee3-c3503fa7a544"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Пробник 09-01-25/T2 АвтоКод.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -89,6 +60,7 @@
     "Python.T14 18122.executor": "Run",
     "Python.T14 19406.executor": "Run",
     "Python.T17.executor": "Run",
+    "Python.T19-20-21 5885.executor": "Run",
     "Python.T19-20-21.executor": "Run",
     "Python.T2 13077.executor": "Run",
     "Python.T2 17621.executor": "Run",
@@ -255,7 +227,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -396,7 +368,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736523286856</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1736970646693</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1736970646693</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1736970672358</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1736970672358</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
