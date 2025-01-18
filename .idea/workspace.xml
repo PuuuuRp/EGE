@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
-      <change afterPath="$PROJECT_DIR$/L 17-01-25/T2 12671.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L 17-01-25/T2 13089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L 17-01-25/T2 18917.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L 17-01-25/T2 6837.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L 17-01-25/T2 6843.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L 17-01-25/T2 6989.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S 17-01-25/T1 14443.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S 17-01-25/T1 9148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S 17-01-25/T2 14390.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S 17-01-25/T2 7667.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S 17-01-25/T2 9771.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sat 18-01-25 T26/T26 4604.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sat 18-01-25 T26/T26 4660.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +79,8 @@
     "Python.T2 Base-Code.executor": "Run",
     "Python.T2 Steps-Met.executor": "Run",
     "Python.T2 АвтоКод.executor": "Run",
+    "Python.T26 4604.executor": "Run",
+    "Python.T26 4660.executor": "Run",
     "Python.T5 14327.executor": "Run",
     "Python.T5 18578.executor": "Run",
     "Python.T8 13298.executor": "Run",
@@ -381,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736523286856</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1737129074867</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737129074867</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
