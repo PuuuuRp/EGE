@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25/T2 454.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25/T2 78.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25/T2 816.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25/T2 960.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag les/T19-20-21 5885.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +29,12 @@
     &quot;assignee&quot;: &quot;PuuuuRp&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PuuuuRp/EGE.git&quot;,
-    &quot;accountId&quot;: &quot;e177fe12-0fef-480d-9ee3-c3503fa7a544&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PuuuuRp/EGE.git",
+    "accountId": "e177fe12-0fef-480d-9ee3-c3503fa7a544"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Пробник 09-01-25/T2 АвтоКод.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -70,12 +67,8 @@
     "Python.T2 17665.executor": "Run",
     "Python.T2 18576.executor": "Run",
     "Python.T2 19234.executor": "Run",
-    "Python.T2 454.executor": "Run",
     "Python.T2 4582.executor": "Run",
     "Python.T2 4607.executor": "Run",
-    "Python.T2 78.executor": "Run",
-    "Python.T2 816.executor": "Run",
-    "Python.T2 960.executor": "Run",
     "Python.T2 9733.executor": "Run",
     "Python.T2 Base-Code 1846.executor": "Run",
     "Python.T2 Base-Code.executor": "Run",
@@ -391,15 +384,7 @@
       <option name="project" value="LOCAL" />
       <updated>1736970672358</updated>
     </task>
-    <task id="LOCAL-00019" summary="Ответы в файлах">
-      <option name="closed" value="true" />
-      <created>1737048832558</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1737048832558</updated>
-    </task>
-    <option name="localTasksCounter" value="20" />
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
