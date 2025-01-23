@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
-      <change afterPath="$PROJECT_DIR$/Drag les/T19-20-21 5885.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T19-20-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_01_2025_19_38_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_01_2025_19_38__Changes_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +43,14 @@
     &quot;assignee&quot;: &quot;PuuuuRp&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PuuuuRp/EGE.git",
-    "accountId": "e177fe12-0fef-480d-9ee3-c3503fa7a544"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PuuuuRp/EGE.git&quot;,
+    &quot;accountId&quot;: &quot;e177fe12-0fef-480d-9ee3-c3503fa7a544&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Hmwrk to 16-01-25/T5.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Пробник 09-01-25/T2 АвтоКод.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -56,9 +71,14 @@
     "Python.T1 16248.executor": "Run",
     "Python.T1 17664.executor": "Run",
     "Python.T1 19233.executor": "Run",
+    "Python.T1.executor": "Run",
+    "Python.T12.executor": "Run",
     "Python.T14 12246.executor": "Run",
     "Python.T14 18122.executor": "Run",
     "Python.T14 19406.executor": "Run",
+    "Python.T14.executor": "Run",
+    "Python.T15.executor": "Run",
+    "Python.T16.executor": "Run",
     "Python.T17.executor": "Run",
     "Python.T19-20-21 5885.executor": "Run",
     "Python.T19-20-21.executor": "Run",
@@ -74,12 +94,18 @@
     "Python.T2 Base-Code.executor": "Run",
     "Python.T2 Steps-Met.executor": "Run",
     "Python.T2 АвтоКод.executor": "Run",
+    "Python.T2.executor": "Run",
+    "Python.T23.executor": "Run",
+    "Python.T24.executor": "Run",
     "Python.T5 14327.executor": "Run",
     "Python.T5 14330.executor": "Run",
     "Python.T5 18578.executor": "Run",
+    "Python.T5.executor": "Run",
+    "Python.T6.executor": "Run",
     "Python.T8 11292.executor": "Run",
     "Python.T8 13298.executor": "Run",
     "Python.T8 17627.executor": "Run",
+    "Python.T8.executor": "Run",
     "Python.Зад 1 4581.executor": "Run",
     "Python.Зад 12 19244.executor": "Run",
     "Python.Зад 14 19246.executor": "Run",
