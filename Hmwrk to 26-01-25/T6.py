@@ -1,6 +1,6 @@
 from turtle import *
 tracer(0)
-screensize(1500, 1500)
+screensize(1000, 1000)
 lt(90)
 m = 15
 
@@ -10,7 +10,7 @@ for i in range(9):
     fd(25*m)
     rt(90)
 up()
-bk(10*m)
+back(10*m)
 rt(90)
 down()
 for i in range(8):

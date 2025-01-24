@@ -3,8 +3,8 @@ def simp(n):
         if n%i == 0: return False
     return True
 
-for n in range(1, 100):
+for n in range(2, 100):
     if simp(n) and (43+n*4)%n == 0:
         print(n)
         break
-#1
+#43
