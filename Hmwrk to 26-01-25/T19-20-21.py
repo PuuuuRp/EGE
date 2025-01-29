@@ -6,7 +6,7 @@ def f(m, n, s):
 
 print('19)', [s for s in range(1, 300) if f(20, s, 2)])
 print('20)', [s for s in range(1, 300) if f(20, s, 3) and not f(20, s, 1)])
-print('21)', [s for s in range(1, 300) if f(20, s, 5) and not f(20, s, 3) and not f(20, s, 1)])
+print('21)', [s for s in range(1, 300) if f(20, s, 5) and not f(20, s, 3)])
 #139
 #129 138
 #68
