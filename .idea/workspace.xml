@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T19-20-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 16-01-25/T8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_01_2025_19_38_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_01_2025_19_38__Changes_1.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 12469.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 18266.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 19247.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 4327.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 6827.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 7846.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_01_2025_15_37_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_01_2025_15_37__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +70,12 @@
     "Python.T14 18122.executor": "Run",
     "Python.T14 19406.executor": "Run",
     "Python.T14.executor": "Run",
+    "Python.T15 12469.executor": "Run",
+    "Python.T15 18266.executor": "Run",
+    "Python.T15 19247.executor": "Run",
+    "Python.T15 4327.executor": "Run",
+    "Python.T15 6827.executor": "Run",
+    "Python.T15 7846.executor": "Run",
     "Python.T15.executor": "Run",
     "Python.T16.executor": "Run",
     "Python.T17.executor": "Run",
@@ -410,7 +409,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736970672358</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1737662395468</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737662395468</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
