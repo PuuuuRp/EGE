@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
-      <change afterPath="$PROJECT_DIR$/L 31-01-25 T15-Code/T15 4770.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L 31-01-25 T15-Code/T15 6268.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L 31-01-25 T15-Code/T15 6828.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S 31-01-25/T14 19246.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S 31-01-25/T15 18140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S 31-01-25/T5 19874.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S 31-01-25/T8 18049.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sat 01-02-25 T26/T26 10107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sat 01-02-25 T26/T26 14625.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sat 01-02-25 T26/T26 18492.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_01_2025_16_04_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_01_2025_16_04__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +101,8 @@
     "Python.T2 Base-Code.executor": "Run",
     "Python.T2 Steps-Met.executor": "Run",
     "Python.T2 АвтоКод.executor": "Run",
+    "Python.T26 10107.executor": "Run",
+    "Python.T26 14625.executor": "Run",
     "Python.T26 16390.executor": "Run",
     "Python.T26 1786.executor": "Run",
     "Python.T26 19727.executor": "Run",
@@ -423,7 +421,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737733824135</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1738338673159</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1738338673159</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
