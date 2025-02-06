@@ -5,72 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 07-02-25 T15-8/T15 16833.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 07-02-25 T15-8/T15 18595.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 07-02-25 T15-8/T15 4327.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 07-02-25 T15-8/T15 5437.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 07-02-25 T15-8/T15 7846.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 07-02-25 T15-8/T15 8677.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 07-02-25 T15-8/T8 5300.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hmwrk to 07-02-25 T15-8/T8 5553.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag les/T24 10105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag les/T24 11954.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag les/T24 12476.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag les/T24 13715.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag les/T24 19967.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag les/T24 2251.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag les/T24 4546.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag les/T24 6734.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T1 11649.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T1 11649.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T1 14443.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T1 14443.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T1 16248.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T1 16248.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T1 17664.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T1 17664.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T14 12246.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T14 12246.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T14 18122.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T14 18122.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T14 19406.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T14 19406.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T5 14327.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T5 14327.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T5 18578.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T5 18578.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T8 13298.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T8 13298.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-01-25/T8 17627.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-01-25 T1-5-8-14/T8 17627.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25 T2/T2 13077.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-01-25 T2-Code/T2 13077.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25 T2/T2 4582.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-01-25 T2-Code/T2 4582.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25 T2/T2 4607.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-01-25 T2-Code/T2 4607.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25 T2/T2 9733.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-01-25 T2-Code/T2 9733.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25 T2/T2 Base-Code 1846.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-01-25 T2-Code/T2 Base-Code 1846.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25 T2/T2 Steps-Met.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-01-25 T2-Code/T2 Steps-Met.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-12-24/Зад 1 17514.py" beforeDir="false" afterPath="$PROJECT_DIR$/27-12-24 T1-Code/Зад 1 17514.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-12-24/Зад 1 17542.py" beforeDir="false" afterPath="$PROJECT_DIR$/27-12-24 T1-Code/Зад 1 17542.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-12-24/Зад 1 17620.py" beforeDir="false" afterPath="$PROJECT_DIR$/27-12-24 T1-Code/Зад 1 17620.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-12-24/Зад 1 1845.py" beforeDir="false" afterPath="$PROJECT_DIR$/27-12-24 T1-Code/Зад 1 1845.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-12-24/Зад 1 4581.png" beforeDir="false" afterPath="$PROJECT_DIR$/27-12-24 T1-Code/Зад 1 4581.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-12-24/Зад 1 4581.py" beforeDir="false" afterPath="$PROJECT_DIR$/27-12-24 T1-Code/Зад 1 4581.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-12-24/Зад 1 4606.py" beforeDir="false" afterPath="$PROJECT_DIR$/27-12-24 T1-Code/Зад 1 4606.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-12-24/Зад 1 9732.py" beforeDir="false" afterPath="$PROJECT_DIR$/27-12-24 T1-Code/Зад 1 9732.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-12-24/Зад 1 9770.py" beforeDir="false" afterPath="$PROJECT_DIR$/27-12-24 T1-Code/Зад 1 9770.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T1 16248.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T1 16248.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T1 19233.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T1 19233.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 17621.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T2 17621.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 17621.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T2 17621.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 17665.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T2 17665.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 17665.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T2 17665.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 18576.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T2 18576.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 18576.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T2 18576.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 19234.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T2 19234.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T2 19234.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T2 19234.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T5 14330.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T5 14330.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 17-01-25/T8 11292.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 17-01-25 T1-2-5-8/T8 11292.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 21-01-25/T11 17552.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25 T2-7-11-18/T11 17552.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 21-01-25/T18 17681.xls" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25 T2-7-11-18/T18 17681.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 21-01-25/T2 454.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25 T2-7-11-18/T2 454.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 21-01-25/T2 78.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25 T2-7-11-18/T2 78.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 21-01-25/T2 816.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25 T2-7-11-18/T2 816.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 21-01-25/T2 960.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25 T2-7-11-18/T2 960.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 21-01-25/T7 19568.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 21-01-25 T2-7-11-18/T7 19568.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 12469.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25 T15-Hand-Code/T15 12469.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 12469.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25 T15-Hand-Code/T15 12469.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 18266.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25 T15-Hand-Code/T15 18266.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 19247.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25 T15-Hand-Code/T15 19247.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 4327.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25 T15-Hand-Code/T15 4327.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 4327.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25 T15-Hand-Code/T15 4327.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 6827.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25 T15-Hand-Code/T15 6827.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 6827.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25 T15-Hand-Code/T15 6827.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 7846.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25 T15-Hand-Code/T15 7846.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hmwrk to 31-01-25/T15 7846.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hmwrk to 31-01-25 T15-Hand-Code/T15 7846.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +95,14 @@
     "Python.T2 АвтоКод.executor": "Run",
     "Python.T2.executor": "Run",
     "Python.T23.executor": "Run",
+    "Python.T24 10105.executor": "Run",
+    "Python.T24 11954.executor": "Run",
+    "Python.T24 12476.executor": "Run",
+    "Python.T24 13715.executor": "Run",
+    "Python.T24 19967.executor": "Run",
+    "Python.T24 2251.executor": "Run",
+    "Python.T24 4546.executor": "Run",
+    "Python.T24 6734.executor": "Run",
     "Python.T24.executor": "Run",
     "Python.T5 14327.executor": "Run",
     "Python.T5 14330.executor": "Run",
@@ -469,7 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736970672358</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Ответы в файлах">
+      <option name="closed" value="true" />
+      <created>1738784068347</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1738784068347</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -479,6 +438,7 @@
     <MESSAGE value="Решение 7" />
     <MESSAGE value="Чут-чут накидал. Уффф" />
     <MESSAGE value="Initial commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Ответы в файлах" />
     <option name="LAST_COMMIT_MESSAGE" value="Ответы в файлах" />
   </component>
