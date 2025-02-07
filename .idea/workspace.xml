@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 10105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 11954.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 12476.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 13715.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 19967.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 2251.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 4546.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 6734.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L 07-02-25 T15 last dance/T15 1198.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L 07-02-25 T15 last dance/T15 2861.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L 07-02-25 T15 last dance/T15 3736.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L 07-02-25 T15 last dance/T15 4278.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L 07-02-25 T15 last dance/T15 4279.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L 07-02-25 T15 last dance/T15 4280.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L 07-02-25 T15 last dance/T15 4285.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L 07-02-25 T15 last dance/T15 748.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -39,11 +40,10 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/PuuuuRp/EGE.git&quot;,
-    &quot;accountId&quot;: &quot;e177fe12-0fef-480d-9ee3-c3503fa7a544&quot;
+    &quot;accountId&quot;: &quot;7e5107c8-4777-489c-b22e-e3cdf82c784b&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Hmwrk to 16-01-25/T5.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Пробник 09-01-25/T2 АвтоКод.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -59,64 +59,79 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.T1 11649.executor": "Run",
     "Python.T1 14443.executor": "Run",
     "Python.T1 16248.executor": "Run",
     "Python.T1 17664.executor": "Run",
-    "Python.T1 19233.executor": "Run",
-    "Python.T1.executor": "Run",
+    "Python.T1 9148.executor": "Run",
+    "Python.T12 18579.executor": "Run",
     "Python.T12.executor": "Run",
     "Python.T14 12246.executor": "Run",
     "Python.T14 18122.executor": "Run",
+    "Python.T14 19246.executor": "Run",
+    "Python.T14 19359.executor": "Run",
     "Python.T14 19406.executor": "Run",
-    "Python.T14.executor": "Run",
-    "Python.T15 16833.executor": "Run",
-    "Python.T15 18595.executor": "Run",
-    "Python.T15 4327.executor": "Run",
-    "Python.T15 5437.executor": "Run",
-    "Python.T15 7846.executor": "Run",
-    "Python.T15 8677.executor": "Run",
-    "Python.T15.executor": "Run",
-    "Python.T16.executor": "Run",
+    "Python.T14 19705.executor": "Run",
+    "Python.T15 11665.executor": "Run",
+    "Python.T15 11837.executor": "Run",
+    "Python.T15 11845.executor": "Run",
+    "Python.T15 1198.executor": "Run",
+    "Python.T15 12247.executor": "Run",
+    "Python.T15 12483.executor": "Run",
+    "Python.T15 14350.executor": "Run",
+    "Python.T15 14353.executor": "Run",
+    "Python.T15 14658.executor": "Run",
+    "Python.T15 18140.executor": "Run",
+    "Python.T15 18175.executor": "Run",
+    "Python.T15 18489.executor": "Run",
+    "Python.T15 2861.executor": "Run",
+    "Python.T15 3736.executor": "Run",
+    "Python.T15 4278.executor": "Run",
+    "Python.T15 4279.executor": "Run",
+    "Python.T15 4280.executor": "Run",
+    "Python.T15 4285.executor": "Run",
+    "Python.T15 4770.executor": "Run",
+    "Python.T15 6268.executor": "Run",
+    "Python.T15 6828.executor": "Run",
+    "Python.T15 748.executor": "Run",
+    "Python.T15 9784.executor": "Run",
+    "Python.T15 9838.executor": "Run",
     "Python.T17.executor": "Run",
-    "Python.T19-20-21 5885.executor": "Run",
     "Python.T19-20-21.executor": "Run",
+    "Python.T2 12671.executor": "Run",
     "Python.T2 13077.executor": "Run",
-    "Python.T2 17621.executor": "Run",
-    "Python.T2 17665.executor": "Run",
-    "Python.T2 18576.executor": "Run",
-    "Python.T2 19234.executor": "Run",
+    "Python.T2 13089.executor": "Run",
+    "Python.T2 14390.executor": "Run",
+    "Python.T2 14651.executor": "Run",
+    "Python.T2 18917.executor": "Run",
     "Python.T2 4582.executor": "Run",
     "Python.T2 4607.executor": "Run",
+    "Python.T2 6837.executor": "Run",
+    "Python.T2 6843.executor": "Run",
+    "Python.T2 6989.executor": "Run",
+    "Python.T2 7667.executor": "Run",
     "Python.T2 9733.executor": "Run",
+    "Python.T2 9771.executor": "Run",
     "Python.T2 Base-Code 1846.executor": "Run",
     "Python.T2 Base-Code.executor": "Run",
     "Python.T2 Steps-Met.executor": "Run",
     "Python.T2 АвтоКод.executor": "Run",
-    "Python.T2.executor": "Run",
-    "Python.T23.executor": "Run",
-    "Python.T24 10105.executor": "Run",
-    "Python.T24 11954.executor": "Run",
-    "Python.T24 12476.executor": "Run",
-    "Python.T24 13715.executor": "Run",
-    "Python.T24 19967.executor": "Run",
-    "Python.T24 2251.executor": "Run",
-    "Python.T24 4546.executor": "Run",
-    "Python.T24 6734.executor": "Run",
-    "Python.T24.executor": "Run",
+    "Python.T26 16390.executor": "Run",
+    "Python.T26 1786.executor": "Run",
+    "Python.T26 19727.executor": "Run",
+    "Python.T26 4604.executor": "Run",
+    "Python.T26 4660.executor": "Run",
+    "Python.T5 10657.executor": "Run",
     "Python.T5 14327.executor": "Run",
-    "Python.T5 14330.executor": "Run",
     "Python.T5 18578.executor": "Run",
-    "Python.T5.executor": "Run",
+    "Python.T5 19874.executor": "Run",
     "Python.T6.executor": "Run",
-    "Python.T8 11292.executor": "Run",
     "Python.T8 13298.executor": "Run",
     "Python.T8 17627.executor": "Run",
-    "Python.T8 5300.executor": "Run",
-    "Python.T8 5553.executor": "Run",
-    "Python.T8 9363.executor": "Run",
+    "Python.T8 17798.executor": "Run",
+    "Python.T8 18049.executor": "Run",
     "Python.T8.executor": "Run",
-    "Python.Зад 1 4581.executor": "Run",
     "Python.Зад 12 19244.executor": "Run",
     "Python.Зад 14 19246.executor": "Run",
     "Python.Зад 15 19247.executor": "Run",
@@ -263,7 +278,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -406,27 +421,27 @@
     </task>
     <task id="LOCAL-00017" summary="Ответы в файлах">
       <option name="closed" value="true" />
-      <created>1736970646693</created>
+      <created>1737129074867</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1736970646693</updated>
+      <updated>1737129074867</updated>
     </task>
     <task id="LOCAL-00018" summary="Ответы в файлах">
       <option name="closed" value="true" />
-      <created>1736970672358</created>
+      <created>1737733824119</created>
       <option name="number" value="00018" />
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1736970672358</updated>
+      <updated>1737733824135</updated>
     </task>
     <task id="LOCAL-00019" summary="Ответы в файлах">
       <option name="closed" value="true" />
-      <created>1738784068347</created>
+      <created>1738938827656</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1738784068347</updated>
+      <updated>1738938827656</updated>
     </task>
     <option name="localTasksCounter" value="20" />
     <servers />
@@ -438,7 +453,6 @@
     <MESSAGE value="Решение 7" />
     <MESSAGE value="Чут-чут накидал. Уффф" />
     <MESSAGE value="Initial commit" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Ответы в файлах" />
     <option name="LAST_COMMIT_MESSAGE" value="Ответы в файлах" />
   </component>
