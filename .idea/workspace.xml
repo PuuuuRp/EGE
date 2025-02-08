@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Ответы в файлах">
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 10105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 11954.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 12476.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 13715.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 19967.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 2251.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 4546.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag les/T24 6734.py" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Концовочка по 15">
+      <change afterPath="$PROJECT_DIR$/Sat 08-02-25 T26/T26 9711.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,12 +29,12 @@
     &quot;assignee&quot;: &quot;PuuuuRp&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PuuuuRp/EGE.git&quot;,
-    &quot;accountId&quot;: &quot;e177fe12-0fef-480d-9ee3-c3503fa7a544&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PuuuuRp/EGE.git",
+    "accountId": "7e5107c8-4777-489c-b22e-e3cdf82c784b"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Hmwrk to 16-01-25/T5.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Пробник 09-01-25/T2 АвтоКод.py" root0="FORCE_HIGHLIGHTING" />
@@ -104,6 +97,7 @@
     "Python.T24 4546.executor": "Run",
     "Python.T24 6734.executor": "Run",
     "Python.T24.executor": "Run",
+    "Python.T26 9711.executor": "Run",
     "Python.T5 14327.executor": "Run",
     "Python.T5 14330.executor": "Run",
     "Python.T5 18578.executor": "Run",
@@ -263,7 +257,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
