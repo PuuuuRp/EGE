@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="17 задание">
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-02-25/T1 17514.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-02-25/T12 15325.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-02-25/T14 4326.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-02-25/T15 16326.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-02-25/T2 1528.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-02-25/T5 9736.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-02-25/T6 17519.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-02-25/T8 6985.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_02_2025_19_50_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_02_2025_19_50__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_02_2025_15_59_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_02_2025_15_59__Changes_.xml" beforeDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="25 задачки из открытого курса">
+      <change afterPath="$PROJECT_DIR$/Lessons/11-02-25 T17/T17 17530.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/11-02-25 T17/T17 17558.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/11-02-25 T17/T17 17636.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/11-02-25 T17/T17 4597.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/11-02-25 T17/T17 4622.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/11-02-25 T17/T17 5758.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/11-02-25 T17/T17 9748.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/11-02-25 T17/T17 9786.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/11-02-25 T17/T17 9840.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AUshakov &lt;chelovechina09@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -66,18 +68,14 @@
     "Python.T1 11649.executor": "Run",
     "Python.T1 14443.executor": "Run",
     "Python.T1 16248.executor": "Run",
-    "Python.T1 17514.executor": "Run",
     "Python.T1 17664.executor": "Run",
     "Python.T1 19233.executor": "Run",
     "Python.T1.executor": "Run",
-    "Python.T12 15325.executor": "Run",
     "Python.T12.executor": "Run",
     "Python.T14 12246.executor": "Run",
     "Python.T14 18122.executor": "Run",
     "Python.T14 19406.executor": "Run",
-    "Python.T14 4326.executor": "Run",
     "Python.T14.executor": "Run",
-    "Python.T15 16326.executor": "Run",
     "Python.T15 16833.executor": "Run",
     "Python.T15 18595.executor": "Run",
     "Python.T15 4327.executor": "Run",
@@ -86,11 +84,19 @@
     "Python.T15 8677.executor": "Run",
     "Python.T15.executor": "Run",
     "Python.T16.executor": "Run",
+    "Python.T17 17530.executor": "Run",
+    "Python.T17 17558.executor": "Run",
+    "Python.T17 17636.executor": "Run",
+    "Python.T17 4597.executor": "Run",
+    "Python.T17 4622.executor": "Run",
+    "Python.T17 5758.executor": "Run",
+    "Python.T17 9748.executor": "Run",
+    "Python.T17 9786.executor": "Run",
+    "Python.T17 9840.executor": "Run",
     "Python.T17.executor": "Run",
     "Python.T19-20-21 5885.executor": "Run",
     "Python.T19-20-21.executor": "Run",
     "Python.T2 13077.executor": "Run",
-    "Python.T2 1528.executor": "Run",
     "Python.T2 17621.executor": "Run",
     "Python.T2 17665.executor": "Run",
     "Python.T2 18576.executor": "Run",
@@ -113,19 +119,21 @@
     "Python.T24 4546.executor": "Run",
     "Python.T24 6734.executor": "Run",
     "Python.T24.executor": "Run",
+    "Python.T25 1078.executor": "Run",
+    "Python.T25 1392.executor": "Run",
+    "Python.T25 2588.executor": "Run",
+    "Python.T25 2595.executor": "Run",
+    "Python.T25 953.executor": "Run",
     "Python.T5 14327.executor": "Run",
     "Python.T5 14330.executor": "Run",
     "Python.T5 18578.executor": "Run",
-    "Python.T5 9736.executor": "Run",
     "Python.T5.executor": "Run",
-    "Python.T6 17519.executor": "Run",
     "Python.T6.executor": "Run",
     "Python.T8 11292.executor": "Run",
     "Python.T8 13298.executor": "Run",
     "Python.T8 17627.executor": "Run",
     "Python.T8 5300.executor": "Run",
     "Python.T8 5553.executor": "Run",
-    "Python.T8 6985.executor": "Run",
     "Python.T8 9363.executor": "Run",
     "Python.T8.executor": "Run",
     "Python.Зад 1 4581.executor": "Run",
@@ -440,7 +448,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738784068347</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1739215579946</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739215579946</updated>
+    </task>
+    <task id="LOCAL-00021" summary="25 задачки из открытого курса">
+      <option name="closed" value="true" />
+      <created>1739218137480</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1739218137480</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -449,9 +473,11 @@
     <MESSAGE value="Итоговое решение" />
     <MESSAGE value="Решение 7" />
     <MESSAGE value="Чут-чут накидал. Уффф" />
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Ответы в файлах" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ответы в файлах" />
+    <MESSAGE value="26 на самокаты и парковки" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="25 задачки из открытого курса" />
+    <option name="LAST_COMMIT_MESSAGE" value="25 задачки из открытого курса" />
   </component>
 </project>
