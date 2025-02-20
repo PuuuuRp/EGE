@@ -6,5 +6,5 @@ def f(n):
 
 for n in range(4, 4445):
     f(n)
-print(f(4444)/f(4400))
+print(f(4444)//f(4400))
 #4194304
