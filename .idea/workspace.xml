@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Домашний пробник фул">
-      <change afterPath="$PROJECT_DIR$/Independent works/21-02-25/T2 18870.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/21-02-25/T25 11672 (2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/21-02-25/T25 11672.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/21-02-25/T25 13440 (2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/21-02-25/T25 13440.py" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="самостоялка">
+      <change afterPath="$PROJECT_DIR$/Lessons/21-02-25 T25-mask/T25 11814.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/21-02-25 T25-mask/T25 11955.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/21-02-25 T25-mask/T25 16270.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/21-02-25 T25-mask/T25 18591.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/21-02-25 T25-mask/T25 4901.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/21-02-25 T25-mask/T25 5678.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,11 +122,17 @@
     "Python.T25 1078.executor": "Run",
     "Python.T25 11672 (2).executor": "Run",
     "Python.T25 11672.executor": "Run",
+    "Python.T25 11814.executor": "Run",
+    "Python.T25 11955.executor": "Run",
     "Python.T25 13440 (2).executor": "Run",
     "Python.T25 13440.executor": "Run",
     "Python.T25 1392.executor": "Run",
+    "Python.T25 16270.executor": "Run",
+    "Python.T25 18591.executor": "Run",
     "Python.T25 2588.executor": "Run",
     "Python.T25 2595.executor": "Run",
+    "Python.T25 4901.executor": "Run",
+    "Python.T25 5678.executor": "Run",
     "Python.T25 953.executor": "Run",
     "Python.T25.executor": "Run",
     "Python.T26 16335.executor": "Run",
@@ -494,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740074981614</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="самостоялка">
+      <option name="closed" value="true" />
+      <created>1740149146474</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1740149146474</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -512,6 +527,7 @@
     <MESSAGE value="Домашка на 14.02.25" />
     <MESSAGE value="Часть пробника на 21-02-25" />
     <MESSAGE value="Домашний пробник фул" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашний пробник фул" />
+    <MESSAGE value="самостоялка" />
+    <option name="LAST_COMMIT_MESSAGE" value="самостоялка" />
   </component>
 </project>
