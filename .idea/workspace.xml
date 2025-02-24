@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Разбор пробника">
-      <change afterPath="$PROJECT_DIR$/Homework/To 25-02-25 T25/T25 12255.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 25-02-25 T25/T25 20288.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 25-02-25 T25/T25 5476.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 25-02-25 T25/T25 6095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 25-02-25 T25/T25 6637.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 25-02-25 T25/T25 7457.py" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Дз с жопоразрывными 25 заданиями">
+      <change afterPath="$PROJECT_DIR$/Drag les/Херота/T8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T1 17772.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T2 17773.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T5 17765.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T6 17774.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T7 17747.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     "Python.T1 14443.executor": "Run",
     "Python.T1 16248.executor": "Run",
     "Python.T1 17664.executor": "Run",
+    "Python.T1 17772.executor": "Run",
     "Python.T1 19233.executor": "Run",
     "Python.T1.executor": "Run",
     "Python.T12 385 - Поляков.executor": "Run",
@@ -99,6 +100,7 @@
     "Python.T2 13077.executor": "Run",
     "Python.T2 17621.executor": "Run",
     "Python.T2 17665.executor": "Run",
+    "Python.T2 17773.executor": "Run",
     "Python.T2 18576.executor": "Run",
     "Python.T2 18870.executor": "Run",
     "Python.T2 19234.executor": "Run",
@@ -147,6 +149,7 @@
     "Python.T26.executor": "Run",
     "Python.T5 14327.executor": "Run",
     "Python.T5 14330.executor": "Run",
+    "Python.T5 17765.executor": "Run",
     "Python.T5 18578.executor": "Run",
     "Python.T5.executor": "Run",
     "Python.T6.executor": "Run",
@@ -534,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740372244642</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Дз с жопоразрывными 25 заданиями">
+      <option name="closed" value="true" />
+      <created>1740420084050</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1740420084050</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -555,6 +566,7 @@
     <MESSAGE value="самостоялка" />
     <MESSAGE value="25 задания маски, сложна" />
     <MESSAGE value="Разбор пробника" />
-    <option name="LAST_COMMIT_MESSAGE" value="Разбор пробника" />
+    <MESSAGE value="Дз с жопоразрывными 25 заданиями" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз с жопоразрывными 25 заданиями" />
   </component>
 </project>
