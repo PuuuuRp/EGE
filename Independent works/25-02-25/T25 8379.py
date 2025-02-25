@@ -10,3 +10,9 @@ for r in range(7):
         if v%137==0 and int(z)%s==0:
             res.append(v)
 for i in sorted(res): print(i)
+
+# 12340001
+# 123400010
+# 123437000
+# 1234000100
+# 1234370000
