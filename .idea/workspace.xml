@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Вариант №1 от Шастина. Решён, количество баллов внутри">
-      <change afterPath="$PROJECT_DIR$/Independent works/28-02-25/T1 18869.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/28-02-25/T17 12450.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/28-02-25/T2 2205.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/28-02-25/T25 12741.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/28-02-25/T8 18963.py" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Самостоялка 28-02-25">
+      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 13488.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 1393.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 14437.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 18620.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 19755.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 3764.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 4276.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 5477.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 896.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,19 +146,29 @@
     "Python.T25 12741.executor": "Run",
     "Python.T25 13440 (2).executor": "Run",
     "Python.T25 13440.executor": "Run",
+    "Python.T25 13488.executor": "Run",
     "Python.T25 1392.executor": "Run",
+    "Python.T25 1393.executor": "Run",
+    "Python.T25 14437.executor": "Run",
     "Python.T25 16270.executor": "Run",
+    "Python.T25 17686.executor": "Run",
     "Python.T25 17769.executor": "Run",
     "Python.T25 18591.executor": "Run",
+    "Python.T25 18620.executor": "Run",
+    "Python.T25 19755.executor": "Run",
     "Python.T25 20288.executor": "Run",
     "Python.T25 2588.executor": "Run",
     "Python.T25 2595.executor": "Run",
+    "Python.T25 3764.executor": "Run",
+    "Python.T25 4276.executor": "Run",
     "Python.T25 4901.executor": "Run",
     "Python.T25 5476.executor": "Run",
+    "Python.T25 5477.executor": "Run",
     "Python.T25 5678.executor": "Run",
     "Python.T25 6095.executor": "Run",
     "Python.T25 6637.executor": "Run",
     "Python.T25 7457.executor": "Run",
+    "Python.T25 896.executor": "Run",
     "Python.T25 953.executor": "Run",
     "Python.T25.executor": "Run",
     "Python.T26 16335.executor": "Run",
@@ -567,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740599109360</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Самостоялка 28-02-25">
+      <option name="closed" value="true" />
+      <created>1740753135785</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1740753135785</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -590,6 +612,7 @@
     <MESSAGE value="Разбор пробника" />
     <MESSAGE value="Дз с жопоразрывными 25 заданиями" />
     <MESSAGE value="Вариант №1 от Шастина. Решён, количество баллов внутри" />
-    <option name="LAST_COMMIT_MESSAGE" value="Вариант №1 от Шастина. Решён, количество баллов внутри" />
+    <MESSAGE value="Самостоялка 28-02-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Самостоялка 28-02-25" />
   </component>
 </project>
