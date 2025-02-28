@@ -4,28 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Дз с жопоразрывными 25 заданиями">
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T11 17745.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T12 17746.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T14 17768.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T15 17748.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T16 17755.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T17 17750.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T18 17751.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T19-20-21 17752.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T22 17754.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T23 17754.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T24 17756.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T25 17769.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T3 17743.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T8 17766.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Вариант 1 Шастин-Бахтиев/T9 17770.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_02_2025_15_52_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_02_2025_15_52__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_02_2025_19_21_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_02_2025_19_21__Changes_.xml" beforeDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Вариант №1 от Шастина. Решён, количество баллов внутри">
+      <change afterPath="$PROJECT_DIR$/Independent works/28-02-25/T1 18869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Independent works/28-02-25/T17 12450.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Independent works/28-02-25/T2 2205.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Independent works/28-02-25/T25 12741.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Independent works/28-02-25/T8 18963.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +66,7 @@
     "Python.T1 16248.executor": "Run",
     "Python.T1 17664.executor": "Run",
     "Python.T1 17772.executor": "Run",
+    "Python.T1 18869.executor": "Run",
     "Python.T1 19233.executor": "Run",
     "Python.T1.executor": "Run",
     "Python.T12 17746.executor": "Run",
@@ -103,6 +88,7 @@
     "Python.T15.executor": "Run",
     "Python.T16 17755.executor": "Run",
     "Python.T16.executor": "Run",
+    "Python.T17 12450.executor": "Run",
     "Python.T17 17530.executor": "Run",
     "Python.T17 17558.executor": "Run",
     "Python.T17 17636.executor": "Run",
@@ -125,6 +111,7 @@
     "Python.T2 18576.executor": "Run",
     "Python.T2 18870.executor": "Run",
     "Python.T2 19234.executor": "Run",
+    "Python.T2 2205.executor": "Run",
     "Python.T2 4582.executor": "Run",
     "Python.T2 4607.executor": "Run",
     "Python.T2 9733.executor": "Run",
@@ -152,6 +139,7 @@
     "Python.T25 11814.executor": "Run",
     "Python.T25 11955.executor": "Run",
     "Python.T25 12255.executor": "Run",
+    "Python.T25 12741.executor": "Run",
     "Python.T25 13440 (2).executor": "Run",
     "Python.T25 13440.executor": "Run",
     "Python.T25 1392.executor": "Run",
@@ -181,6 +169,7 @@
     "Python.T8 13298.executor": "Run",
     "Python.T8 17627.executor": "Run",
     "Python.T8 17766.executor": "Run",
+    "Python.T8 18963.executor": "Run",
     "Python.T8 469 - Поляков.executor": "Run",
     "Python.T8 5300.executor": "Run",
     "Python.T8 5553.executor": "Run",
@@ -570,7 +559,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740420084050</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Вариант №1 от Шастина. Решён, количество баллов внутри">
+      <option name="closed" value="true" />
+      <created>1740599109360</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1740599109360</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -592,6 +589,7 @@
     <MESSAGE value="25 задания маски, сложна" />
     <MESSAGE value="Разбор пробника" />
     <MESSAGE value="Дз с жопоразрывными 25 заданиями" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дз с жопоразрывными 25 заданиями" />
+    <MESSAGE value="Вариант №1 от Шастина. Решён, количество баллов внутри" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вариант №1 от Шастина. Решён, количество баллов внутри" />
   </component>
 </project>
