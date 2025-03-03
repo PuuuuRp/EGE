@@ -1,0 +1,363 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3\" name=\"Changes\" comment=\"Самостоялка 28-02-25\">\r\n      <change afterPath=\"$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 13488.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 1393.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 14437.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 18620.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 19755.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 3764.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 4276.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 5477.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 896.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"AUshakov &lt;chelovechina09@gmail.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;PuuuuRp&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/PuuuuRp/EGE.git&quot;,\r\n    &quot;accountId&quot;: &quot;e177fe12-0fef-480d-9ee3-c3503fa7a544&quot;\r\n  }\r\n}</component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/Hmwrk to 16-01-25/T5.py\" root0=\"FORCE_HIGHLIGHTING\" />\r\n    <setting file=\"file://$PROJECT_DIR$/Пробник 09-01-25/T2 АвтоКод.py\" root0=\"FORCE_HIGHLIGHTING\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2qfO9Z0PdrW5lGXYARitIOqo563\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.T1 11649.executor\": \"Run\",\r\n    \"Python.T1 14443.executor\": \"Run\",\r\n    \"Python.T1 16248.executor\": \"Run\",\r\n    \"Python.T1 17664.executor\": \"Run\",\r\n    \"Python.T1 17772.executor\": \"Run\",\r\n    \"Python.T1 18869.executor\": \"Run\",\r\n    \"Python.T1 19233.executor\": \"Run\",\r\n    \"Python.T1.executor\": \"Run\",\r\n    \"Python.T12 17746.executor\": \"Run\",\r\n    \"Python.T12 385 - Поляков.executor\": \"Run\",\r\n    \"Python.T12.executor\": \"Run\",\r\n    \"Python.T14 12246.executor\": \"Run\",\r\n    \"Python.T14 17768.executor\": \"Run\",\r\n    \"Python.T14 18122.executor\": \"Run\",\r\n    \"Python.T14 19406.executor\": \"Run\",\r\n    \"Python.T14.executor\": \"Run\",\r\n    \"Python.T15 16833.executor\": \"Run\",\r\n    \"Python.T15 17748.executor\": \"Run\",\r\n    \"Python.T15 18595.executor\": \"Run\",\r\n    \"Python.T15 4327.executor\": \"Run\",\r\n    \"Python.T15 5437.executor\": \"Run\",\r\n    \"Python.T15 574 - Поляков.executor\": \"Run\",\r\n    \"Python.T15 7846.executor\": \"Run\",\r\n    \"Python.T15 8677.executor\": \"Run\",\r\n    \"Python.T15.executor\": \"Run\",\r\n    \"Python.T16 17755.executor\": \"Run\",\r\n    \"Python.T16.executor\": \"Run\",\r\n    \"Python.T17 12450.executor\": \"Run\",\r\n    \"Python.T17 17530.executor\": \"Run\",\r\n    \"Python.T17 17558.executor\": \"Run\",\r\n    \"Python.T17 17636.executor\": \"Run\",\r\n    \"Python.T17 17750.executor\": \"Run\",\r\n    \"Python.T17 4597.executor\": \"Run\",\r\n    \"Python.T17 4622.executor\": \"Run\",\r\n    \"Python.T17 5758.executor\": \"Run\",\r\n    \"Python.T17 7716.executor\": \"Run\",\r\n    \"Python.T17 9748.executor\": \"Run\",\r\n    \"Python.T17 9786.executor\": \"Run\",\r\n    \"Python.T17 9840.executor\": \"Run\",\r\n    \"Python.T17.executor\": \"Run\",\r\n    \"Python.T19-20-21 17752.executor\": \"Run\",\r\n    \"Python.T19-20-21 5885.executor\": \"Run\",\r\n    \"Python.T19-20-21.executor\": \"Run\",\r\n    \"Python.T2 13077.executor\": \"Run\",\r\n    \"Python.T2 17621.executor\": \"Run\",\r\n    \"Python.T2 17665.executor\": \"Run\",\r\n    \"Python.T2 17773.executor\": \"Run\",\r\n    \"Python.T2 18576.executor\": \"Run\",\r\n    \"Python.T2 18870.executor\": \"Run\",\r\n    \"Python.T2 19234.executor\": \"Run\",\r\n    \"Python.T2 2205.executor\": \"Run\",\r\n    \"Python.T2 4582.executor\": \"Run\",\r\n    \"Python.T2 4607.executor\": \"Run\",\r\n    \"Python.T2 9733.executor\": \"Run\",\r\n    \"Python.T2 Base-Code 1846.executor\": \"Run\",\r\n    \"Python.T2 Base-Code.executor\": \"Run\",\r\n    \"Python.T2 Steps-Met.executor\": \"Run\",\r\n    \"Python.T2 АвтоКод.executor\": \"Run\",\r\n    \"Python.T2.executor\": \"Run\",\r\n    \"Python.T23 17754.executor\": \"Run\",\r\n    \"Python.T23.executor\": \"Run\",\r\n    \"Python.T24 10105.executor\": \"Run\",\r\n    \"Python.T24 11954.executor\": \"Run\",\r\n    \"Python.T24 12476.executor\": \"Run\",\r\n    \"Python.T24 13715.executor\": \"Run\",\r\n    \"Python.T24 15339.executor\": \"Run\",\r\n    \"Python.T24 17756.executor\": \"Run\",\r\n    \"Python.T24 19967.executor\": \"Run\",\r\n    \"Python.T24 2251.executor\": \"Run\",\r\n    \"Python.T24 4546.executor\": \"Run\",\r\n    \"Python.T24 6734.executor\": \"Run\",\r\n    \"Python.T24.executor\": \"Run\",\r\n    \"Python.T25 1078.executor\": \"Run\",\r\n    \"Python.T25 11672 (2).executor\": \"Run\",\r\n    \"Python.T25 11672.executor\": \"Run\",\r\n    \"Python.T25 11814.executor\": \"Run\",\r\n    \"Python.T25 11955.executor\": \"Run\",\r\n    \"Python.T25 12255.executor\": \"Run\",\r\n    \"Python.T25 12741.executor\": \"Run\",\r\n    \"Python.T25 13440 (2).executor\": \"Run\",\r\n    \"Python.T25 13440.executor\": \"Run\",\r\n    \"Python.T25 13488.executor\": \"Run\",\r\n    \"Python.T25 1392.executor\": \"Run\",\r\n    \"Python.T25 1393.executor\": \"Run\",\r\n    \"Python.T25 14437.executor\": \"Run\",\r\n    \"Python.T25 16270.executor\": \"Run\",\r\n    \"Python.T25 17686.executor\": \"Run\",\r\n    \"Python.T25 17769.executor\": \"Run\",\r\n    \"Python.T25 18591.executor\": \"Run\",\r\n    \"Python.T25 18620.executor\": \"Run\",\r\n    \"Python.T25 19755.executor\": \"Run\",\r\n    \"Python.T25 20288.executor\": \"Run\",\r\n    \"Python.T25 2588.executor\": \"Run\",\r\n    \"Python.T25 2595.executor\": \"Run\",\r\n    \"Python.T25 3764.executor\": \"Run\",\r\n    \"Python.T25 4276.executor\": \"Run\",\r\n    \"Python.T25 4901.executor\": \"Run\",\r\n    \"Python.T25 5476.executor\": \"Run\",\r\n    \"Python.T25 5477.executor\": \"Run\",\r\n    \"Python.T25 5678.executor\": \"Run\",\r\n    \"Python.T25 6095.executor\": \"Run\",\r\n    \"Python.T25 6637.executor\": \"Run\",\r\n    \"Python.T25 7457.executor\": \"Run\",\r\n    \"Python.T25 896.executor\": \"Run\",\r\n    \"Python.T25 953.executor\": \"Run\",\r\n    \"Python.T25.executor\": \"Run\",\r\n    \"Python.T26 16335.executor\": \"Run\",\r\n    \"Python.T26.executor\": \"Run\",\r\n    \"Python.T5 14327.executor\": \"Run\",\r\n    \"Python.T5 14330.executor\": \"Run\",\r\n    \"Python.T5 17765.executor\": \"Run\",\r\n    \"Python.T5 18578.executor\": \"Run\",\r\n    \"Python.T5.executor\": \"Run\",\r\n    \"Python.T6.executor\": \"Run\",\r\n    \"Python.T8 11292.executor\": \"Run\",\r\n    \"Python.T8 13298.executor\": \"Run\",\r\n    \"Python.T8 17627.executor\": \"Run\",\r\n    \"Python.T8 17766.executor\": \"Run\",\r\n    \"Python.T8 18963.executor\": \"Run\",\r\n    \"Python.T8 469 - Поляков.executor\": \"Run\",\r\n    \"Python.T8 5300.executor\": \"Run\",\r\n    \"Python.T8 5553.executor\": \"Run\",\r\n    \"Python.T8 9363.executor\": \"Run\",\r\n    \"Python.T8.executor\": \"Run\",\r\n    \"Python.Зад 1 4581.executor\": \"Run\",\r\n    \"Python.Зад 12 19244.executor\": \"Run\",\r\n    \"Python.Зад 14 19246.executor\": \"Run\",\r\n    \"Python.Зад 15 19247.executor\": \"Run\",\r\n    \"Python.Зад 16 19248.executor\": \"Run\",\r\n    \"Python.Зад 19-21 19251.executor\": \"Run\",\r\n    \"Python.Зад 23 19253.executor\": \"Run\",\r\n    \"Python.Зад 24 19254.executor\": \"Run\",\r\n    \"Python.Зад 26.executor\": \"Run\",\r\n    \"Python.Зад 5 19237.executor\": \"Run\",\r\n    \"Python.Зад 6 19238.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/AUshakov/Desktop/EGE/ЕГКР-21-12-24\",\r\n    \"settings.editor.selected.configurable\": \"preferences.editor\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\AUshakov\\Desktop\\EGE\\ЕГКР-21-12-24\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"T14 12246\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"EGE\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/07-01-25\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/07-01-25/T14 12246.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"T17\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"EGE\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Пробник 09-01-25\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Пробник 09-01-25/T17.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"T19-20-21\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"EGE\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Пробник 09-01-25\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Пробник 09-01-25/T19-20-21.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"T2 Steps-Met\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"EGE\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/14-01-25 T2\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/14-01-25 T2/T2 Steps-Met.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"T2 АвтоКод\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"EGE\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Пробник 09-01-25\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Пробник 09-01-25/T2 АвтоКод.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.T2 Steps-Met\" />\r\n        <item itemvalue=\"Python.T19-20-21\" />\r\n        <item itemvalue=\"Python.T17\" />\r\n        <item itemvalue=\"Python.T2 АвтоКод\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3\" name=\"Changes\" comment=\"\" />\r\n      <created>1735050013297</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1735050013297</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1735050641185</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1735050641185</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Мы пытались\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1735051322854</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1735051322854</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Итоговое решение\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1735052577421</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1735052577421</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Решение 7\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1735053765638</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1735053765638</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Чут-чут накидал. Уффф\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1735068497606</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1735068497606</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Чут-чут накидал. Уффф\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1735221148150</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1735221148150</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1735223820971</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1735223820971</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736259850491</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736259850491</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736261071980</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736261071980</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736263173250</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736263173250</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736264640345</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736264640345</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736264653818</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736264653818</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736518912662</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736518912662</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736520236910</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736520236910</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736521153172</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736521153172</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736523286856</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736523286856</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736970646693</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736970646693</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736970672358</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736970672358</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"Ответы в файлах\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1738784068347</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1738784068347</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1739215579946</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1739215579946</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"25 задачки из открытого курса\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1739218137480</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1739218137480</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"Домашка на 14.02.25\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1739903030639</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1739903030639</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"Часть пробника на 21-02-25\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1739994475140</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1739994475140</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"Домашний пробник фул\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740074981614</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740074981614</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"самостоялка\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740149146474</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740149146474</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"25 задания маски, сложна\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740153258828</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740153258829</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00027\" summary=\"Разбор пробника\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740372244641</created>\r\n      <option name=\"number\" value=\"00027\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00027\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740372244642</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00028\" summary=\"Дз с жопоразрывными 25 заданиями\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740420084050</created>\r\n      <option name=\"number\" value=\"00028\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00028\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740420084050</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00029\" summary=\"Вариант №1 от Шастина. Решён, количество баллов внутри\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740599109360</created>\r\n      <option name=\"number\" value=\"00029\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00029\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740599109360</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00030\" summary=\"Самостоялка 28-02-25\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740753135785</created>\r\n      <option name=\"number\" value=\"00030\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00030\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740753135785</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"31\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"initial commit\" />\r\n    <MESSAGE value=\"Мы пытались\" />\r\n    <MESSAGE value=\"Итоговое решение\" />\r\n    <MESSAGE value=\"Решение 7\" />\r\n    <MESSAGE value=\"Чут-чут накидал. Уффф\" />\r\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml\" />\r\n    <MESSAGE value=\"Ответы в файлах\" />\r\n    <MESSAGE value=\"26 на самокаты и парковки\" />\r\n    <MESSAGE value=\"Initial commit\" />\r\n    <MESSAGE value=\"25 задачки из открытого курса\" />\r\n    <MESSAGE value=\"Самостоялка\" />\r\n    <MESSAGE value=\"Домашка на 14.02.25\" />\r\n    <MESSAGE value=\"Часть пробника на 21-02-25\" />\r\n    <MESSAGE value=\"Домашний пробник фул\" />\r\n    <MESSAGE value=\"самостоялка\" />\r\n    <MESSAGE value=\"25 задания маски, сложна\" />\r\n    <MESSAGE value=\"Разбор пробника\" />\r\n    <MESSAGE value=\"Дз с жопоразрывными 25 заданиями\" />\r\n    <MESSAGE value=\"Вариант №1 от Шастина. Решён, количество баллов внутри\" />\r\n    <MESSAGE value=\"Самостоялка 28-02-25\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Самостоялка 28-02-25\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9a6229cd96b64cf416ea62888399df7141ab08a5)
++++ b/.idea/workspace.xml	(date 1741022549759)
+@@ -4,18 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Самостоялка 28-02-25">
+-      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 13488.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 1393.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 14437.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 18620.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 19755.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 3764.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 4276.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 5477.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lessons/28-02-25 T25-Div/T25 896.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="прикольные 25 задания на делители числа" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -63,151 +52,151 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.T1 11649.executor": "Run",
+-    "Python.T1 14443.executor": "Run",
+-    "Python.T1 16248.executor": "Run",
+-    "Python.T1 17664.executor": "Run",
+-    "Python.T1 17772.executor": "Run",
+-    "Python.T1 18869.executor": "Run",
+-    "Python.T1 19233.executor": "Run",
+-    "Python.T1.executor": "Run",
+-    "Python.T12 17746.executor": "Run",
+-    "Python.T12 385 - Поляков.executor": "Run",
+-    "Python.T12.executor": "Run",
+-    "Python.T14 12246.executor": "Run",
+-    "Python.T14 17768.executor": "Run",
+-    "Python.T14 18122.executor": "Run",
+-    "Python.T14 19406.executor": "Run",
+-    "Python.T14.executor": "Run",
+-    "Python.T15 16833.executor": "Run",
+-    "Python.T15 17748.executor": "Run",
+-    "Python.T15 18595.executor": "Run",
+-    "Python.T15 4327.executor": "Run",
+-    "Python.T15 5437.executor": "Run",
+-    "Python.T15 574 - Поляков.executor": "Run",
+-    "Python.T15 7846.executor": "Run",
+-    "Python.T15 8677.executor": "Run",
+-    "Python.T15.executor": "Run",
+-    "Python.T16 17755.executor": "Run",
+-    "Python.T16.executor": "Run",
+-    "Python.T17 12450.executor": "Run",
+-    "Python.T17 17530.executor": "Run",
+-    "Python.T17 17558.executor": "Run",
+-    "Python.T17 17636.executor": "Run",
+-    "Python.T17 17750.executor": "Run",
+-    "Python.T17 4597.executor": "Run",
+-    "Python.T17 4622.executor": "Run",
+-    "Python.T17 5758.executor": "Run",
+-    "Python.T17 7716.executor": "Run",
+-    "Python.T17 9748.executor": "Run",
+-    "Python.T17 9786.executor": "Run",
+-    "Python.T17 9840.executor": "Run",
+-    "Python.T17.executor": "Run",
+-    "Python.T19-20-21 17752.executor": "Run",
+-    "Python.T19-20-21 5885.executor": "Run",
+-    "Python.T19-20-21.executor": "Run",
+-    "Python.T2 13077.executor": "Run",
+-    "Python.T2 17621.executor": "Run",
+-    "Python.T2 17665.executor": "Run",
+-    "Python.T2 17773.executor": "Run",
+-    "Python.T2 18576.executor": "Run",
+-    "Python.T2 18870.executor": "Run",
+-    "Python.T2 19234.executor": "Run",
+-    "Python.T2 2205.executor": "Run",
+-    "Python.T2 4582.executor": "Run",
+-    "Python.T2 4607.executor": "Run",
+-    "Python.T2 9733.executor": "Run",
+-    "Python.T2 Base-Code 1846.executor": "Run",
+-    "Python.T2 Base-Code.executor": "Run",
+-    "Python.T2 Steps-Met.executor": "Run",
+-    "Python.T2 АвтоКод.executor": "Run",
+-    "Python.T2.executor": "Run",
+-    "Python.T23 17754.executor": "Run",
+-    "Python.T23.executor": "Run",
+-    "Python.T24 10105.executor": "Run",
+-    "Python.T24 11954.executor": "Run",
+-    "Python.T24 12476.executor": "Run",
+-    "Python.T24 13715.executor": "Run",
+-    "Python.T24 15339.executor": "Run",
+-    "Python.T24 17756.executor": "Run",
+-    "Python.T24 19967.executor": "Run",
+-    "Python.T24 2251.executor": "Run",
+-    "Python.T24 4546.executor": "Run",
+-    "Python.T24 6734.executor": "Run",
+-    "Python.T24.executor": "Run",
+-    "Python.T25 1078.executor": "Run",
+-    "Python.T25 11672 (2).executor": "Run",
+-    "Python.T25 11672.executor": "Run",
+-    "Python.T25 11814.executor": "Run",
+-    "Python.T25 11955.executor": "Run",
+-    "Python.T25 12255.executor": "Run",
+-    "Python.T25 12741.executor": "Run",
+-    "Python.T25 13440 (2).executor": "Run",
+-    "Python.T25 13440.executor": "Run",
+-    "Python.T25 13488.executor": "Run",
+-    "Python.T25 1392.executor": "Run",
+-    "Python.T25 1393.executor": "Run",
+-    "Python.T25 14437.executor": "Run",
+-    "Python.T25 16270.executor": "Run",
+-    "Python.T25 17686.executor": "Run",
+-    "Python.T25 17769.executor": "Run",
+-    "Python.T25 18591.executor": "Run",
+-    "Python.T25 18620.executor": "Run",
+-    "Python.T25 19755.executor": "Run",
+-    "Python.T25 20288.executor": "Run",
+-    "Python.T25 2588.executor": "Run",
+-    "Python.T25 2595.executor": "Run",
+-    "Python.T25 3764.executor": "Run",
+-    "Python.T25 4276.executor": "Run",
+-    "Python.T25 4901.executor": "Run",
+-    "Python.T25 5476.executor": "Run",
+-    "Python.T25 5477.executor": "Run",
+-    "Python.T25 5678.executor": "Run",
+-    "Python.T25 6095.executor": "Run",
+-    "Python.T25 6637.executor": "Run",
+-    "Python.T25 7457.executor": "Run",
+-    "Python.T25 896.executor": "Run",
+-    "Python.T25 953.executor": "Run",
+-    "Python.T25.executor": "Run",
+-    "Python.T26 16335.executor": "Run",
+-    "Python.T26.executor": "Run",
+-    "Python.T5 14327.executor": "Run",
+-    "Python.T5 14330.executor": "Run",
+-    "Python.T5 17765.executor": "Run",
+-    "Python.T5 18578.executor": "Run",
+-    "Python.T5.executor": "Run",
+-    "Python.T6.executor": "Run",
+-    "Python.T8 11292.executor": "Run",
+-    "Python.T8 13298.executor": "Run",
+-    "Python.T8 17627.executor": "Run",
+-    "Python.T8 17766.executor": "Run",
+-    "Python.T8 18963.executor": "Run",
+-    "Python.T8 469 - Поляков.executor": "Run",
+-    "Python.T8 5300.executor": "Run",
+-    "Python.T8 5553.executor": "Run",
+-    "Python.T8 9363.executor": "Run",
+-    "Python.T8.executor": "Run",
+-    "Python.Зад 1 4581.executor": "Run",
+-    "Python.Зад 12 19244.executor": "Run",
+-    "Python.Зад 14 19246.executor": "Run",
+-    "Python.Зад 15 19247.executor": "Run",
+-    "Python.Зад 16 19248.executor": "Run",
+-    "Python.Зад 19-21 19251.executor": "Run",
+-    "Python.Зад 23 19253.executor": "Run",
+-    "Python.Зад 24 19254.executor": "Run",
+-    "Python.Зад 26.executor": "Run",
+-    "Python.Зад 5 19237.executor": "Run",
+-    "Python.Зад 6 19238.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "master",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "last_opened_file_path": "C:/Users/AUshakov/Desktop/EGE/ЕГКР-21-12-24",
+-    "settings.editor.selected.configurable": "preferences.editor"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.T1 11649.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T1 14443.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T1 16248.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T1 17664.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T1 17772.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T1 18869.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T1 19233.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T12 17746.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T12 385 - Поляков.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T12.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T14 12246.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T14 17768.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T14 18122.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T14 19406.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T14.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T15 16833.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T15 17748.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T15 18595.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T15 4327.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T15 5437.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T15 574 - Поляков.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T15 7846.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T15 8677.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T15.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T16 17755.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T16.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 12450.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 17530.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 17558.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 17636.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 17750.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 4597.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 4622.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 5758.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 7716.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 9748.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 9786.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17 9840.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T17.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T19-20-21 17752.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T19-20-21 5885.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T19-20-21.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 13077.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 17621.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 17665.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 17773.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 18576.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 18870.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 19234.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 2205.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 4582.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 4607.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 9733.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 Base-Code 1846.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 Base-Code.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 Steps-Met.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2 АвтоКод.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T23 17754.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T23.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24 10105.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24 11954.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24 12476.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24 13715.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24 15339.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24 17756.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24 19967.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24 2251.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24 4546.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24 6734.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T24.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 1078.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 11672 (2).executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 11672.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 11814.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 11955.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 12255.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 12741.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 13440 (2).executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 13440.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 13488.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 1392.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 1393.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 14437.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 16270.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 17686.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 17769.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 18591.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 18620.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 19755.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 20288.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 2588.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 2595.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 3764.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 4276.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 4901.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 5476.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 5477.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 5678.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 6095.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 6637.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 7457.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 896.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25 953.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T25.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T26 16335.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T26.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T5 14327.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T5 14330.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T5 17765.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T5 18578.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T5.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T6.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T8 11292.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T8 13298.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T8 17627.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T8 17766.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T8 18963.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T8 469 - Поляков.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T8 5300.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T8 5553.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T8 9363.executor&quot;: &quot;Run&quot;,
++    &quot;Python.T8.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 1 4581.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 12 19244.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 14 19246.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 15 19247.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 16 19248.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 19-21 19251.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 23 19253.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 24 19254.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 26.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 5 19237.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Зад 6 19238.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/AUshakov/Desktop/EGE/ЕГКР-21-12-24&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\AUshakov\Desktop\EGE\ЕГКР-21-12-24" />
+@@ -589,7 +578,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1740753135785</updated>
+     </task>
+-    <option name="localTasksCounter" value="31" />
++    <task id="LOCAL-00031" summary="прикольные 25 задания на делители числа">
++      <option name="closed" value="true" />
++      <created>1740756699691</created>
++      <option name="number" value="00031" />
++      <option name="presentableId" value="LOCAL-00031" />
++      <option name="project" value="LOCAL" />
++      <updated>1740756699691</updated>
++    </task>
++    <task id="LOCAL-00032" summary="прикольные 25 задания на делители числа">
++      <option name="closed" value="true" />
++      <created>1740756870130</created>
++      <option name="number" value="00032" />
++      <option name="presentableId" value="LOCAL-00032" />
++      <option name="project" value="LOCAL" />
++      <updated>1740756870130</updated>
++    </task>
++    <option name="localTasksCounter" value="33" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+@@ -613,6 +618,7 @@
+     <MESSAGE value="Дз с жопоразрывными 25 заданиями" />
+     <MESSAGE value="Вариант №1 от Шастина. Решён, количество баллов внутри" />
+     <MESSAGE value="Самостоялка 28-02-25" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Самостоялка 28-02-25" />
++    <MESSAGE value="прикольные 25 задания на делители числа" />
++    <option name="LAST_COMMIT_MESSAGE" value="прикольные 25 задания на делители числа" />
+   </component>
+ </project>
+\ No newline at end of file
+diff --git a/Homework/To 04-03-25 T25-Div/T25 8696.py b/Homework/To 04-03-25 T25-Div/T25 8696.py
+new file mode 100644
