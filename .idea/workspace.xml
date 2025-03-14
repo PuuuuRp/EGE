@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Самостоялка 28-02-25">
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-03-25/T15 8596.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-03-25/T16 14339.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-03-25/T16 19709.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-03-25/T23 10104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-03-25/T23 17684.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 14-03-25/T23 4709.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_03_2025_15_50_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_03_2025_15_50__Changes_.xml" beforeDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Домашка на пятницу 14 марта">
+      <change afterPath="$PROJECT_DIR$/Independent works/14-03-25/T12 19483.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Independent works/14-03-25/T17 14952.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Independent works/14-03-25/T2 14651.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Independent works/14-03-25/T23 19121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Independent works/14-03-25/T6 18131.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_03_2025_21_12_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_03_2025_21_12__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_03_2025_15_45_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_03_2025_15_45__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,12 +42,12 @@
     &quot;assignee&quot;: &quot;PuuuuRp&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PuuuuRp/EGE.git&quot;,
-    &quot;accountId&quot;: &quot;e177fe12-0fef-480d-9ee3-c3503fa7a544&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PuuuuRp/EGE.git",
+    "accountId": "8e7ca21b-93fc-4afc-89ef-72269d64ab53"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Hmwrk to 16-01-25/T5.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Пробник 09-01-25/T2 АвтоКод.py" root0="FORCE_HIGHLIGHTING" />
@@ -75,6 +74,7 @@
     "Python.T1 19233.executor": "Run",
     "Python.T1.executor": "Run",
     "Python.T12 17746.executor": "Run",
+    "Python.T12 19483.executor": "Run",
     "Python.T12 385 - Поляков.executor": "Run",
     "Python.T12.executor": "Run",
     "Python.T14 12246.executor": "Run",
@@ -89,6 +89,7 @@
     "Python.T15 5437.executor": "Run",
     "Python.T15 574 - Поляков.executor": "Run",
     "Python.T15 7846.executor": "Run",
+    "Python.T15 8503.executor": "Run",
     "Python.T15 8596.executor": "Run",
     "Python.T15 8677.executor": "Run",
     "Python.T15.executor": "Run",
@@ -99,6 +100,7 @@
     "Python.T16 20196.executor": "Run",
     "Python.T16.executor": "Run",
     "Python.T17 12450.executor": "Run",
+    "Python.T17 14952.executor": "Run",
     "Python.T17 17530.executor": "Run",
     "Python.T17 17558.executor": "Run",
     "Python.T17 17636.executor": "Run",
@@ -116,6 +118,7 @@
     "Python.T19-20-21 5885.executor": "Run",
     "Python.T19-20-21.executor": "Run",
     "Python.T2 13077.executor": "Run",
+    "Python.T2 14651.executor": "Run",
     "Python.T2 17621.executor": "Run",
     "Python.T2 17665.executor": "Run",
     "Python.T2 17773.executor": "Run",
@@ -134,6 +137,7 @@
     "Python.T23 10104.executor": "Run",
     "Python.T23 17684.executor": "Run",
     "Python.T23 17754.executor": "Run",
+    "Python.T23 19121.executor": "Run",
     "Python.T23 4709.executor": "Run",
     "Python.T23.executor": "Run",
     "Python.T24 10105.executor": "Run",
@@ -192,6 +196,7 @@
     "Python.T5 17765.executor": "Run",
     "Python.T5 18578.executor": "Run",
     "Python.T5.executor": "Run",
+    "Python.T6 18131.executor": "Run",
     "Python.T6.executor": "Run",
     "Python.T8 11292.executor": "Run",
     "Python.T8 13298.executor": "Run",
@@ -350,7 +355,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
@@ -603,7 +608,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740753135785</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Домашка на пятницу 14 марта">
+      <option name="closed" value="true" />
+      <created>1741878472036</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1741878472036</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -627,6 +640,7 @@
     <MESSAGE value="Дз с жопоразрывными 25 заданиями" />
     <MESSAGE value="Вариант №1 от Шастина. Решён, количество баллов внутри" />
     <MESSAGE value="Самостоялка 28-02-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="Самостоялка 28-02-25" />
+    <MESSAGE value="Домашка на пятницу 14 марта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашка на пятницу 14 марта" />
   </component>
 </project>
