@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Жопные 23 задания">
-      <change afterPath="$PROJECT_DIR$/Homework/To 18-03-25 T23-25-17/T17 4329.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 18-03-25 T23-25-17/T23 1137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 18-03-25 T23-25-17/T23 13972.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 18-03-25 T23-25-17/T23 3374.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 18-03-25 T23-25-17/T23 5926.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 18-03-25 T23-25-17/T25 10725.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/To 18-03-25 T23-25-17/T25 14442.py" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Самостоялка за пятницу 14 марта">
+      <change afterPath="$PROJECT_DIR$/Lessons/14-03-25 T23-Hard/T23 11240.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/14-03-25 T23-Hard/T23 12475.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/14-03-25 T23-Hard/T23 13099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/14-03-25 T23-Hard/T23 3780.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/14-03-25 T23-Hard/T23 4498.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/14-03-25 T23-Hard/T23 5762.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/14-03-25 T23-Hard/T23 5937.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/14-03-25 T23-Hard/T23 5938.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/14-03-25 T23-Hard/T23 6635.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +42,12 @@
     &quot;assignee&quot;: &quot;PuuuuRp&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PuuuuRp/EGE.git&quot;,
-    &quot;accountId&quot;: &quot;8e7ca21b-93fc-4afc-89ef-72269d64ab53&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PuuuuRp/EGE.git",
+    "accountId": "8e7ca21b-93fc-4afc-89ef-72269d64ab53"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Hmwrk to 16-01-25/T5.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Пробник 09-01-25/T2 АвтоКод.py" root0="FORCE_HIGHLIGHTING" />
@@ -104,7 +106,6 @@
     "Python.T17 17636.executor": "Run",
     "Python.T17 17750.executor": "Run",
     "Python.T17 18617.executor": "Run",
-    "Python.T17 4329.executor": "Run",
     "Python.T17 4597.executor": "Run",
     "Python.T17 4622.executor": "Run",
     "Python.T17 5758.executor": "Run",
@@ -135,19 +136,15 @@
     "Python.T2.executor": "Run",
     "Python.T23 10104.executor": "Run",
     "Python.T23 11240.executor": "Run",
-    "Python.T23 1137.executor": "Run",
     "Python.T23 12475.executor": "Run",
     "Python.T23 13099.executor": "Run",
-    "Python.T23 13972.executor": "Run",
     "Python.T23 17684.executor": "Run",
     "Python.T23 17754.executor": "Run",
     "Python.T23 19121.executor": "Run",
-    "Python.T23 3374.executor": "Run",
     "Python.T23 3780.executor": "Run",
     "Python.T23 4498.executor": "Run",
     "Python.T23 4709.executor": "Run",
     "Python.T23 5762.executor": "Run",
-    "Python.T23 5926.executor": "Run",
     "Python.T23 5937.executor": "Run",
     "Python.T23 5938.executor": "Run",
     "Python.T23 6635.executor": "Run",
@@ -163,7 +160,6 @@
     "Python.T24 4546.executor": "Run",
     "Python.T24 6734.executor": "Run",
     "Python.T24.executor": "Run",
-    "Python.T25 10725.executor": "Run",
     "Python.T25 1078.executor": "Run",
     "Python.T25 11672 (2).executor": "Run",
     "Python.T25 11672.executor": "Run",
@@ -177,7 +173,6 @@
     "Python.T25 1392.executor": "Run",
     "Python.T25 1393.executor": "Run",
     "Python.T25 14437.executor": "Run",
-    "Python.T25 14442.executor": "Run",
     "Python.T25 16270.executor": "Run",
     "Python.T25 17686.executor": "Run",
     "Python.T25 17769.executor": "Run",
@@ -638,15 +633,7 @@
       <option name="project" value="LOCAL" />
       <updated>1741962344320</updated>
     </task>
-    <task id="LOCAL-00033" summary="Жопные 23 задания">
-      <option name="closed" value="true" />
-      <created>1741968065188</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1741968065188</updated>
-    </task>
-    <option name="localTasksCounter" value="34" />
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -672,7 +659,6 @@
     <MESSAGE value="Самостоялка 28-02-25" />
     <MESSAGE value="Домашка на пятницу 14 марта" />
     <MESSAGE value="Самостоялка за пятницу 14 марта" />
-    <MESSAGE value="Жопные 23 задания" />
-    <option name="LAST_COMMIT_MESSAGE" value="Жопные 23 задания" />
+    <option name="LAST_COMMIT_MESSAGE" value="Самостоялка за пятницу 14 марта" />
   </component>
 </project>
