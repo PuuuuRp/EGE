@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Самостоялка за пятницу 14 марта">
-      <change afterPath="$PROJECT_DIR$/Independent works/21-03-25/T14 16580.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/21-03-25/T14 19307.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/21-03-25/T16 18123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/21-03-25/T17 17636.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent works/21-03-25/T5 20182.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_03_2025_16_53_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_03_2025_16_53__Changes_.xml" beforeDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Самостоялка за пятницу 21 марта">
+      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T24 105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T24 19254.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T24 4682.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T26 2480.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,17 +145,21 @@
     "Python.T23 5762.executor": "Run",
     "Python.T23 5937.executor": "Run",
     "Python.T23 5938.executor": "Run",
+    "Python.T23 6053.executor": "Run",
     "Python.T23 6635.executor": "Run",
     "Python.T23.executor": "Run",
     "Python.T24 10105.executor": "Run",
+    "Python.T24 105.executor": "Run",
     "Python.T24 11954.executor": "Run",
     "Python.T24 12476.executor": "Run",
     "Python.T24 13715.executor": "Run",
     "Python.T24 15339.executor": "Run",
     "Python.T24 17756.executor": "Run",
+    "Python.T24 19254.executor": "Run",
     "Python.T24 19967.executor": "Run",
     "Python.T24 2251.executor": "Run",
     "Python.T24 4546.executor": "Run",
+    "Python.T24 4682.executor": "Run",
     "Python.T24 6734.executor": "Run",
     "Python.T24.executor": "Run",
     "Python.T25 1078.executor": "Run",
@@ -202,6 +201,7 @@
     "Python.T25 953.executor": "Run",
     "Python.T25.executor": "Run",
     "Python.T26 16335.executor": "Run",
+    "Python.T26 2480.executor": "Run",
     "Python.T26.executor": "Run",
     "Python.T5 14327.executor": "Run",
     "Python.T5 14330.executor": "Run",
@@ -637,7 +637,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741962344320</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Самостоялка за пятницу 21 марта">
+      <option name="closed" value="true" />
+      <created>1742566911141</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1742566911141</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -663,6 +671,7 @@
     <MESSAGE value="Самостоялка 28-02-25" />
     <MESSAGE value="Домашка на пятницу 14 марта" />
     <MESSAGE value="Самостоялка за пятницу 14 марта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Самостоялка за пятницу 14 марта" />
+    <MESSAGE value="Самостоялка за пятницу 21 марта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Самостоялка за пятницу 21 марта" />
   </component>
 </project>
