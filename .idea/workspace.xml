@@ -4,13 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Добивка домашки на вторник 18 марта">
-      <change afterPath="$PROJECT_DIR$/Saturdays/22-03-25 T26/T26 17643.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saturdays/22-03-25 T26/T26 2717 2 решения.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Субботнее 26">
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/1706.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/2418.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/2600.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/27_A_20816.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/27_B_20816.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T19-20-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T27a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T27b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_03_2025_15_58_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_03_2025_15_58__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_03_2025_9_35_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_03_2025_9_35__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saturdays/T17.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,12 +178,16 @@
     "Python.T25 9754.executor": "Run",
     "Python.T25 9792.executor": "Run",
     "Python.T25 9846.executor": "Run",
+    "Python.T25.executor": "Run",
     "Python.T26 17537.executor": "Run",
     "Python.T26 17643.executor": "Run",
     "Python.T26 2717.executor": "Run",
     "Python.T26 9171.executor": "Run",
     "Python.T26 9711.executor": "Run",
     "Python.T26 Крыловщина.executor": "Run",
+    "Python.T26.executor": "Run",
+    "Python.T27a.executor": "Run",
+    "Python.T27b.executor": "Run",
     "Python.T5 14327.executor": "Run",
     "Python.T5 14328.executor": "Run",
     "Python.T5 14330.executor": "Run",
@@ -198,12 +223,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/AUshakov/Desktop/EGE/Saturdays/15-03-25 T26",
+    "last_opened_file_path": "C:/Users/AUshakov/Desktop/EGE/Пробники и цельные варианты/Мартовский пробник",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AUshakov\Desktop\EGE\Пробники и цельные варианты\Мартовский пробник" />
       <recent name="C:\Users\AUshakov\Desktop\EGE\Saturdays\15-03-25 T26" />
       <recent name="C:\Users\AUshakov\Desktop\EGE\ЕГКР-21-12-24" />
     </key>
@@ -548,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742305832452</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Субботнее 26">
+      <option name="closed" value="true" />
+      <created>1742658372548</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1742658372548</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -563,6 +597,7 @@
     <MESSAGE value="Самостоялка" />
     <MESSAGE value="Добавлен ответ в одно из домашних 25-х" />
     <MESSAGE value="Добивка домашки на вторник 18 марта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добивка домашки на вторник 18 марта" />
+    <MESSAGE value="Субботнее 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Субботнее 26" />
   </component>
 </project>
