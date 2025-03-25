@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Самостоялка за пятницу 21 марта">
-      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T24 105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T24 19254.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T24 4682.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T26 2480.py" afterDir="false" />
+    <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Домашка на субботу 22 марта без последнего 26 задания">
+      <change afterPath="$PROJECT_DIR$/Homework/To 25-03-25/T11 17930.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/To 25-03-25/T11 20281.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/To 25-03-25/T19-20-21 18958.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/To 25-03-25/T19-20-21 19251.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/To 25-03-25/T4 17545.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/To 25-03-25/T7 164.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/To 25-03-25/T7 20425.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_03_2025_15_58_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_03_2025_15_58__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_03_2025_9_35_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_03_2025_9_35__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,6 +120,7 @@
     "Python.T17 9840.executor": "Run",
     "Python.T17.executor": "Run",
     "Python.T19-20-21 17752.executor": "Run",
+    "Python.T19-20-21 19251.executor": "Run",
     "Python.T19-20-21 5885.executor": "Run",
     "Python.T19-20-21.executor": "Run",
     "Python.T2 13077.executor": "Run",
@@ -645,7 +653,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742566911141</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Домашка на субботу 22 марта без последнего 26 задания">
+      <option name="closed" value="true" />
+      <created>1742635157032</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1742635157033</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -672,6 +688,7 @@
     <MESSAGE value="Домашка на пятницу 14 марта" />
     <MESSAGE value="Самостоялка за пятницу 14 марта" />
     <MESSAGE value="Самостоялка за пятницу 21 марта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Самостоялка за пятницу 21 марта" />
+    <MESSAGE value="Домашка на субботу 22 марта без последнего 26 задания" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашка на субботу 22 марта без последнего 26 задания" />
   </component>
 </project>
