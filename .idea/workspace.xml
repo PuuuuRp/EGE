@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e6db8d-d66e-4b6b-94ee-5ec7dc1548e3" name="Changes" comment="Самостоялка за пятницу 21 марта">
-      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T24 105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T24 19254.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T24 4682.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework to Sat/To 22-03-25/T26 2480.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T26.py" beforeDir="false" afterPath="$PROJECT_DIR$/Пробники и цельные варианты/Мартовский пробник/T26.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,6 +208,7 @@
     "Python.T5 18578.executor": "Run",
     "Python.T5 20182.executor": "Run",
     "Python.T5.executor": "Run",
+    "Python.T6 17625.executor": "Run",
     "Python.T6 18131.executor": "Run",
     "Python.T6.executor": "Run",
     "Python.T8 11292.executor": "Run",
