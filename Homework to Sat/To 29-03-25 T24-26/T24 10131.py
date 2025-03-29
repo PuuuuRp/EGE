@@ -6,11 +6,8 @@ m = []
 for r in range(len(st)):
     if st[r]=='A': a += 1
     if st[r]=='B': b += 1
-    if a==b:
-        m.append(r+1)
     if abs(a-b)==1:
-        m.append(r)
+        m.append([r, a, b])
 m = sorted(m)[::-1]
-for i in m: print(i)
-print(max(m))
+print(m[0])
 #484336
