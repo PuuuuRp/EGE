@@ -1,7 +1,6 @@
 with open('26v2.txt') as f:
     N = int(f.readline())
     arr = [list(map(int, i.split())) for i in f if i]
-arr = sorted(arr)[::-1]
 
 res = []
 for day in range(max(arr, key=lambda x: x[0])[0], 0, -1):
