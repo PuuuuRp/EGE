@@ -14,7 +14,6 @@ for i in m:
             s += str(num) + i[r]
             l = r+1
     s += f'{int(i[l:], 8)}'
-    s.strip('+*')
     res.append([eval(s), len(i), i])
 print(max(res, key=lambda x: (x[1], x[0])))
 #142844
