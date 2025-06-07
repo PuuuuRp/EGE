@@ -36,3 +36,30 @@ res = sorted(res, key=lambda x: (-x[1], x[0]))
 print(res)
 print(res[0])
 #40031 148
+
+#======================================================================================
+
+with open('26_19256.txt') as file:
+    N = int(file.readline())
+    students = [list(map(int, i.split())) for i in file]
+
+students = sorted(students)
+
+ans = []
+cnt = 1
+for i in range(N - 1):
+    st1, st2 = students[i:i + 2]
+    if st1[0] == st2[0]:
+        if st2[1] - st1[1] == 0:
+            continue
+        if st2[1] - st1[1] == 1:
+            cnt += 1
+        else:
+            cnt = 1
+    else:
+        cnt = 1
+    ans.append([cnt, st1[0]])
+
+ans = sorted(ans, key=lambda x: (-x[0], x[1]))
+print(ans[0])
+# 40031 148
